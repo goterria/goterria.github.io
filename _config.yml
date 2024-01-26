@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Groupe de recherche en Observation de la Terre par Observation de la Terre # the website title (if blank, full name will be used instead)
+first_name: Go
+middle_name: Terr
+last_name: IA
+email: goterria.usherbrooke@gmail.com
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
